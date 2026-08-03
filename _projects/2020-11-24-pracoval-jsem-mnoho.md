@@ -27,17 +27,15 @@ featured_image: '/images/pracoval-jsem-mnoho/01b.jpg'
 
 Josef Čapek skutečně pracoval mnoho, proto soupis celého díla je rozdělen do čtyř publikací. Každá obsahuje dva fyzické svazky. První s&nbsp;textovou a&nbsp;obrazovou částí a&nbsp;druhý se samotným soupisem, který obsahuje sirkové náhledy jednotlivých položek. Prolistovat si textovou část prvního dílu <a href="https://issuu.com/8smicka/docs/pracoval-jsem-mnoho-dil-i-kresba-blok-1-99-jednost">můžete tady</a> a&nbsp;ukázka druhého dílu je <a href="https://issuu.com/8smicka/docs/capek2-issuu/2">zde.</a> Více informací o&nbsp;tomto projektu najdete na [stránkách vydavatele.](https://8smicka.com/josef-capek/)
 
-Soupis je dostupný také v online webové aplikaci na adrese <a href="https://www.josefcapek.online/cs">josefcapek.online</a>. 
+Více informací o projektu najdete na stránkách vydavatele <a href="https://8smicka.com/josef-capek/">tady</a>. 
 
 ---
 
-Doposud vyšlo:
+Už je to komplet venku:
 + Díl první: Kresba (2019)
 + Díl druhý: Užitá kresba (2020)
-+ Díl třetí: Malba (2023)
-
-A ještě vyjde:
-+ Díl čtvrtý: Grafika (2023)
++ Díl třetí: Malba (2022)
++ Díl čtvrtý: Grafika (2025)
 
 ---
 
