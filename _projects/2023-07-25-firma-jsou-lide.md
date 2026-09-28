@@ -2,7 +2,7 @@
 title: 'Firma jsou lidé, lidé jsou síla'
 subtitle: 'Knižní design'
 title-page: 'Petr Kmošek: Firma jsou lidé, lidé jsou síla'
-subtitle-page: 'Petr Kmošek od roku 2010 pomáhá firmám s optimalizací procesů tak, aby týmy podávali ty nejlepší výkony a přitom byly pracovníci spokojení. Všechny poznatky ze své praxe shrnul v knize Firma jsou lidé, lidé jsou síla! Obálka knihy pracuje s motivem diagramu, který naznačuje, jak vypadá firma před a po její úspěšné transformaci na základě personálního auditu. Z chaosu se stává pořádek, je jasně nastavený směr i posloupnost jednotlivých kroků.'
+subtitle-page: 'Petr Kmošek od roku 2010 pomáhá firmám s optimalizací procesů tak, aby týmy podávaly ty nejlepší výkony a přitom byli pracovníci spokojení. Všechny poznatky ze své praxe shrnul v knize Firma jsou lidé, lidé jsou síla! Obálka knihy pracuje s motivem diagramu, který naznačuje, jak vypadá firma před a po její úspěšné transformaci na základě personálního auditu. Z chaosu se stává pořádek, je jasně nastavený směr i posloupnost jednotlivých kroků.'
 date: 2022-07-25 00:00:00
 description: 'Petr Kmošek: Firma jsou lidé, lidé jsou síla'
 featured_image: '/images/firma-jsou-lide/kmosek_thumb.jpg'
