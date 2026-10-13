@@ -13,19 +13,19 @@ featured_image: '/images/sz/sz_thumb.jpg'
 Manuál popisuje základní principy vizuálního stylu Správy železnic a pak jednotlivé aplikace (včetně konstrukcí layoutů) – venkovní prezentace stavebních projektů, označení staveb včetně orientačního systému, venkovní propagace akcí a širokou škálu tiskovin.
 
 <div class="gallery" data-columns="2">
-  <img src="/images/sz/sz_02.jpg">
-  <img src="/images/sz/sz_03.jpg">
-  <img src="/images/sz/sz_04.jpg">
-  <img src="/images/sz/sz_05.jpg">
+  <img src="/images/sz/sz_02.jpg" alt="Rozkres označení plotového dílce">
+  <img src="/images/sz/sz_03.jpg" alt="Ukázka realizace označení oplocení stavby">
+  <img src="/images/sz/sz_04.jpg" alt="Rozkres dělení plochy">
+  <img src="/images/sz/sz_05.jpg" alt="Ukázka prezentace probíhajícího projektu se třemi fotografiemi">
 </div>
 
 Každá kapitola manuálu obsahuje přílohu s šablonami pro tvorbu jednotlivých výstupů.
 
-![Šablony manuálu staveb](/images/sz/sz_06.jpg)
+![Přehled šablon manuálu staveb Správy železnic](/images/sz/sz_06.jpg)
 
 <div class="gallery" data-columns="2">
-  <img src="/images/sz/sz_07.jpg">
-  <img src="/images/sz/sz_08.jpg">
+  <img src="/images/sz/sz_07.jpg" alt="Rozkres dělení plochy letáků">
+  <img src="/images/sz/sz_08.jpg" alt="Vzory letáků">
 </div>
 
 ---
